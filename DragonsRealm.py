@@ -42,6 +42,7 @@ while playAgain == 'yes' or playAgain == 'y':
   checkRoad(int(road))
   print('Would you like to play again?')
   playAgain = input('Type yes or no: ')
+  print()
 
 print()
 print('Alright, thanks for playing, bye bye!')
